@@ -6,6 +6,7 @@ package tfexec
 import (
 	"context"
 	"fmt"
+	"os"
 	"os/exec"
 	"strings"
 	"sync"
